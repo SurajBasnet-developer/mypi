@@ -51,7 +51,7 @@ async def startup_event():
 
 # CORS Configuration
 origins = [
-  "https://blogapp-tan.vercel.app/",  # Replace with your frontend URL
+  "https://blogapp-tan.vercel.app",  # Replace with your frontend URL
   # Add more allowed origins as needed
 ]
 
